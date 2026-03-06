@@ -13,3 +13,4 @@ This project analyzes a retail sales dataset using Excel pivot tables and data v
 - Top-selling products contribute a large portion of overall revenue.
 
 ## Dashboard
+<img width="1501" height="628" alt="Screenshot 2026-03-06 154101" src="https://github.com/user-attachments/assets/00445e9d-a554-405f-9bc2-b97e779a8325" />
